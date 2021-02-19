@@ -1,0 +1,10 @@
+c:\users\caceresmadrid\documents\visual studio 2015\Projects\claseProgfeb\claseProgfeb\bin\Debug\claseProgfeb.exe.config
+c:\users\caceresmadrid\documents\visual studio 2015\Projects\claseProgfeb\claseProgfeb\bin\Debug\claseProgfeb.exe
+c:\users\caceresmadrid\documents\visual studio 2015\Projects\claseProgfeb\claseProgfeb\bin\Debug\claseProgfeb.pdb
+c:\users\caceresmadrid\documents\visual studio 2015\Projects\claseProgfeb\claseProgfeb\bin\Debug\claseProgfeb.xml
+c:\users\caceresmadrid\documents\visual studio 2015\Projects\claseProgfeb\claseProgfeb\obj\Debug\claseProgfeb.vbprojResolveAssemblyReference.cache
+c:\users\caceresmadrid\documents\visual studio 2015\Projects\claseProgfeb\claseProgfeb\obj\Debug\claseProgfeb.Resources.resources
+c:\users\caceresmadrid\documents\visual studio 2015\Projects\claseProgfeb\claseProgfeb\obj\Debug\claseProgfeb.vbproj.GenerateResource.Cache
+c:\users\caceresmadrid\documents\visual studio 2015\Projects\claseProgfeb\claseProgfeb\obj\Debug\claseProgfeb.exe
+c:\users\caceresmadrid\documents\visual studio 2015\Projects\claseProgfeb\claseProgfeb\obj\Debug\claseProgfeb.xml
+c:\users\caceresmadrid\documents\visual studio 2015\Projects\claseProgfeb\claseProgfeb\obj\Debug\claseProgfeb.pdb
