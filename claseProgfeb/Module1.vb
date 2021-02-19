@@ -29,6 +29,7 @@
 
         Else
             Console.WriteLine("Error")
+            Console.ReadLine()
 
 
         End If
